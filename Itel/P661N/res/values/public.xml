@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <public type="array" name="config_defaultPinnerServiceFiles" id="0x7f010001" />
-    <public type="array" name="config_tether_bluetooth_regexs" id="0x7f010005" />
-    <public type="array" name="config_tether_usb_regexs" id="0x7f010006" />
-    <public type="array" name="config_tether_wifi_regexs" id="0x7f010007" />
-    <public type="array" name="networkAttributes" id="0x7f010009" />
     <public type="bool" name="config_device_volte_available" id="0x7f020002" />
     <public type="bool" name="config_device_vt_available" id="0x7f020003" />
     <public type="bool" name="config_device_wfc_ims_available" id="0x7f020004" />
