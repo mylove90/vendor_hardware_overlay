@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="me.phh.treble.overlay.itel.p661n"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <overlay android:targetPackage="android"
+        	android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+        	android:requiredSystemPropertyValue="+Itel/P661N*/itel-P661N:*"
+		android:priority="974"
+		android:isStatic="true" />
+</manifest>
